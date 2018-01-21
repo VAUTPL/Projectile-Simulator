@@ -3,12 +3,11 @@ Projectile Simulator using OpenCV and python
 
 This project is free. The code is free to be used and modified by anybody who wishes to do so.
 
-#UTPL Professor:
+#UTPL Professor: Rodrigo Barba 
 
-Rodrigo Barba lrbarba@utpl.edu.ec
+#Mail lrbarba@utpl.edu.ec
 
-#Twitter:
-@lrbarba
+#Twitter: @lrbarba
 
 System Requirements
 -------------------
